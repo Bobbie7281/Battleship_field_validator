@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship_field_validator", "Battleship_field_validator\Battleship_field_validator.csproj", "{9876B685-2904-4AB3-B5BD-B708D31E950F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship_Field_Tests", "Battleship_Field_Tests\Battleship_Field_Tests.csproj", "{8E645C20-32D9-4A6D-8DD8-C27F253C2540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9876B685-2904-4AB3-B5BD-B708D31E950F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9876B685-2904-4AB3-B5BD-B708D31E950F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9876B685-2904-4AB3-B5BD-B708D31E950F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9876B685-2904-4AB3-B5BD-B708D31E950F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E645C20-32D9-4A6D-8DD8-C27F253C2540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E645C20-32D9-4A6D-8DD8-C27F253C2540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E645C20-32D9-4A6D-8DD8-C27F253C2540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E645C20-32D9-4A6D-8DD8-C27F253C2540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D9FDD9-9F88-4895-A427-3D0290C5F345}
+	EndGlobalSection
+EndGlobal
